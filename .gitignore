@@ -1,6 +1,9 @@
 .venv/
 .jupyter/
-work/*.parquet
+work/
+work_dev/
+output/
 Hackathon/
 __pycache__/
 .ipynb_checkpoints/
+*.parquet
